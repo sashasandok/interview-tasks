@@ -1,0 +1,1 @@
+// smart and dumb components
